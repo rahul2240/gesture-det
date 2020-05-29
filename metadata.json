@@ -1,0 +1,27 @@
+[
+    {
+        "labels": [
+            {
+                "pick": 0
+            },
+            {
+                "swap": 1
+            },
+            {
+                "flying plane": 2
+            }, 
+            {
+                "move": 3
+            },
+            {
+                "move up": 4
+            },
+            {
+                "cancel": 5
+            },
+            {
+                "rotate": 6
+            }
+        ]
+    }
+]
